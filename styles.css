@@ -12,12 +12,14 @@
 	
 }
 .item{
-	height:200px;
+	height:100px;
 	width:200px;
 	color:blue;
 	background-color:yellowgreen;
 	text-align:center;
-	padding-top:100px;
+	padding-top:80px;
+	border-radius:20px;
+	
 }
 
 
