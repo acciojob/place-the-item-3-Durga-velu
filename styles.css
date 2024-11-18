@@ -9,6 +9,7 @@
 	flex-direction:row;
 	align-items:center;
 	justify-content:space-evenly;
+	flex-wrap:wrap;
 	
 }
 .item{
@@ -20,7 +21,6 @@
 	padding-top:80px;
 	border-radius:20px;
 	border:1px solid rosybrown;
-	
 }
 
 
